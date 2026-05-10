@@ -6,6 +6,8 @@
 
 SompCoc Rises is a Discord bot created overnight for an [Oxford Computing Society](https://ox.compsoc.net) hackathon. It is a Cookie Clicker-inspired idle game where you purchase various kinds of advertisements and upgrades to increase your membership exponentially.
 
+<img width="631" height="780" alt="image" src="https://github.com/user-attachments/assets/2c139bb4-c867-4b05-8f69-772017f7360c" />
+
 ## Running the bot
 
 1. Get a Discord bot token from the [Discord developer token](https://discord.com/developers/applications).
