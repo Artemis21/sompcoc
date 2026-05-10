@@ -1,0 +1,19 @@
+[package]
+name = "compsochackathon"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dotenvy = "0.15.7"
+kv = { version = "0.24.0", features = ["msgpack-value"] }
+num-bigint = { version = "0.4.6", features = ["serde"] }
+num-format = { version = "0.4.4", features = ["with-num-bigint"] }
+num-traits = "0.2.19"
+poise = "0.6.2"
+pretty_env_logger = "0.5.0"
+rand = "0.10.1"
+rustls = { version = "0.23.40", default-features = false, features = ["ring"] }
+serde = { version = "1.0.228", features = ["derive"] }
+serde-brief = "0.2.0"
+serde_urlencoded = "0.7.1"
+tokio = { version = "1.52.3", features = ["macros", "rt-multi-thread"] }
